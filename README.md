@@ -20,6 +20,9 @@ The author use four methods for approximate string matching in the script.
 Make sure you have go installed in your system.
 https://golang.org/doc/install
 
+Make sure you have go dep installed:
+https://github.com/golang/dep
+
 ## RUN ALL Programs
 
 VERY important to clone this repository into your \$GOPATH, otherwise it will not run.
