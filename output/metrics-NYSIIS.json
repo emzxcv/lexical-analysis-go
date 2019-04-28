@@ -1,0 +1,7 @@
+[
+	{
+		"precision": 0.816304347826087,
+		"recall": 0.6,
+		"algorithm": "Levenshtein-NYSIIS"
+	}
+]
